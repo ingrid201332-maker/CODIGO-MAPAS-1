@@ -15,6 +15,10 @@ Las capas incluidas en el repositorio son archivos ZIP con shapefiles. Los campo
 | `PENDIENTE LAGUNA.zip` | Restricción física; pendientes menores favorecen restauración de humedal. | `PEND_PROME`, `NOMBRE_ENT`, `COD_MUNICI` |
 | `RIO CAUCA.zip` | Conectividad hidrológica; se usa la distancia geométrica al río. | Geometría de la capa; el campo `id` no aporta criterio ambiental. |
 
+## Explicación metodológica
+
+La explicación completa de cómo se realizó el análisis, qué conceptos se tuvieron en cuenta y cómo se interpretan los criterios está en [`ANALISIS_MULTICRITERIO_LAGUNA_SONSO.md`](ANALISIS_MULTICRITERIO_LAGUNA_SONSO.md).
+
 ## Código para la consola Python de QGIS
 
 El script listo para pegar en la consola Python de QGIS está en:
