@@ -24,6 +24,7 @@ La explicación completa de cómo se realizó el análisis, qué conceptos se tu
 El script listo para pegar en la consola Python de QGIS está en:
 
 - [`scripts/restauracion_laguna_sonso_qgis.py`](scripts/restauracion_laguna_sonso_qgis.py)
+- [`explicacion.md`](explicacion.md): explicación detallada de por qué y cómo se realizó el análisis, fuentes de información usadas y razón por la que puede no aparecer prioridad alta.
 
 ### Uso
 
